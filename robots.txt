@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://admirable-platypus-0bb3a1.netlify.app/sitemap.xml
